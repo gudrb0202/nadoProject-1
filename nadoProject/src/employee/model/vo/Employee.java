@@ -3,6 +3,7 @@ package employee.model.vo;
 public class Employee implements java.io.Serializable{
 	private static final long serialVersionUID = 333;
 	
+
 	private String empId;
 	private String email;
 	private String deptId;
@@ -16,11 +17,7 @@ public class Employee implements java.io.Serializable{
 	private String phone;
 	private String address;
 	
-	
 	public Employee() {	
 	}
 	
-	
-	
-
 }
