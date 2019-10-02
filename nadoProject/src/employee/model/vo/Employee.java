@@ -15,7 +15,7 @@ public class Employee implements java.io.Serializable{
 	private int empNo;
 	private String phone;
 	private String address;
-	private 
+	
 	
 	public Employee() {	
 	}
