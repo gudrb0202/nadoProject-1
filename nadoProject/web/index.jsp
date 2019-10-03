@@ -8,7 +8,10 @@
 </head>
 <body>
 	<header></header>
-	<section></section>
+	<section>
+	<a href="/nado/views/employee/empMainView.jsp">그룹웨어</a>
+	
+	</section>
 	<footer></footer>
 </body>
 </html>
